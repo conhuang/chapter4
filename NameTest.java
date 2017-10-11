@@ -23,7 +23,7 @@ public class NameTest{
         
         System.out.println ("\n" + n1.firstMiddleLast() + "\n"+n1.lastMiddleFirst()+
         "\n"+ n1.initials() + "\nThe name length is " +n1.length());
-        System.out.println ("\n" + n2.firstMiddleLast() + "\n"+n1.lastMiddleFirst()+
+        System.out.println ("\n" + n2.firstMiddleLast() + "\n"+n2.lastMiddleFirst()+
         "\n" + n2.initials() + "\nThe name length is " +n2.length());
         if (n1.equals(n2))
             System.out.println ("\nThe names are the same.");
